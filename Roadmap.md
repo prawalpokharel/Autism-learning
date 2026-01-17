@@ -1,31 +1,34 @@
 # Calm Learning Hub – Project Roadmap
 
 ## Short-Term Objectives (0–6 Months)
-- Stabilize existing deployment and improve reliability
-- Refine accessibility-focused interface elements
-- Improve documentation and clarity of learning workflows
-- Enhance consistency and predictability of content delivery
+- Stabilize existing deployment and improve system reliability
+- Refine sensory-friendly lesson presentation and formatting
+- Improve lesson organization and navigation for students
+- Enhance progress visualization for teachers and parents
+- Improve question-routing workflows between students, teachers, and parents
 
 ## Mid-Term Objectives (6–18 Months)
-- Introduce adaptive learning pathways based on user interaction
-- Expand supported educational content categories
-- Improve scalability to support broader usage
-- Integrate structured feedback mechanisms for iterative refinement
+- Expand adaptive learning features based on student interaction patterns
+- Improve AI-assisted personalization of sensory-friendly content
+- Enhance collaboration tools between teachers and parents
+- Improve scalability to support broader usage across educational settings
+- Introduce structured feedback mechanisms for iterative system refinement
 
 ## Long-Term Objectives (18+ Months)
 - Support collaboration with educators and accessibility reviewers
-- Enable broader dissemination and adoption of assistive learning tools
-- Improve adaptability to diverse learning needs
+- Expand learning support features for diverse learning needs
 - Align system development with evolving accessibility best practices
+- Enable broader dissemination and adoption of inclusive learning tools
 
 ## Measurable Outcomes
-- System availability and uptime
-- User engagement and session continuity indicators
-- Consistency and clarity of learning experiences
-- Reduction in user interaction friction
+- System uptime and availability
+- Lesson completion and engagement indicators
+- Clarity and consistency of learning content
+- Reduction in student learning friction
+- Transparency of progress tracking across user roles
 
 ## Sustainability Strategy
 - Modular and maintainable system design
 - Continuous documentation updates
-- Iterative improvements informed by accessibility principles
+- Iterative improvements based on user interaction patterns
 - Long-term viability as an assistive educational platform
